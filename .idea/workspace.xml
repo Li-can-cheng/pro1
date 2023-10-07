@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="pro1" targetName="pro1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-远程主机" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="远程主机" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c8c6e31-f99d-4ab8-8957-ba09c1016dff" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-远程主机" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/cpp-httplib" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cpp-httplib" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Li-can-cheng&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="8fc4731f-677d-4bf2-a0db-a2140f3a87c8" />
+        <option name="url" value="https://github.com/Li-can-cheng/pro1.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;contexts&quot;: [
+    {
+      &quot;name&quot;: &quot;docker-desktop&quot;
+    }
+  ],
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="KubernetesSettings">
+    <option name="contextName" value="docker-desktop" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2WElULBhBZOWzZ7TRaeE1D0VqsT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.advertisement.text.has.clang-format&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CPPToolchains&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="S:\myC\pro1\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake 应用程序.pro1">
+    <configuration name="pro1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pro1" TARGET_NAME="pro1" CONFIG_NAME="Debug-远程主机" RUN_TARGET_PROJECT_NAME="pro1" RUN_TARGET_NAME="pro1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pro1" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
+      <option name="sourceFile" value="main.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pro1" TARGET_NAME="test.cpp" CONFIG_NAME="test.cpp">
+      <option name="sourceFile" value="test.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ 文件.test.cpp" />
+      <item itemvalue="C/C++ 文件.main.cpp" />
+      <item itemvalue="CMake 应用程序.pro1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ 文件.test.cpp" />
+        <item itemvalue="C/C++ 文件.main.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6c8c6e31-f99d-4ab8-8957-ba09c1016dff" name="更改" comment="" />
+      <created>1696305634863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696305634863</updated>
+      <workItem from="1696305636139" duration="768000" />
+      <workItem from="1696306420778" duration="528000" />
+      <workItem from="1696314962352" duration="8838000" />
+      <workItem from="1696327151676" duration="20000" />
+      <workItem from="1696327181130" duration="775000" />
+      <workItem from="1696345010503" duration="9722000" />
+      <workItem from="1696391642579" duration="6736000" />
+      <workItem from="1696411961881" duration="54000" />
+      <workItem from="1696412152393" duration="99000" />
+      <workItem from="1696412265967" duration="1960000" />
+      <workItem from="1696414252212" duration="585000" />
+      <workItem from="1696414850361" duration="65000" />
+      <workItem from="1696414925757" duration="70000" />
+      <workItem from="1696415006042" duration="109000" />
+      <workItem from="1696415126146" duration="92000" />
+      <workItem from="1696415228555" duration="465000" />
+      <workItem from="1696595044841" duration="2887000" />
+      <workItem from="1696609353656" duration="7861000" />
+      <workItem from="1696644822372" duration="8733000" />
+      <workItem from="1696656561487" duration="812000" />
+      <workItem from="1696658330210" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="0d6ce7">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/test.cpp" />
+                </list>
+              </option>
+              <option name="id" value="0d6ce7" />
+              <option name="initiateTms" value="1696413883789" />
+              <option name="request" value="请帮我设计一个小型计算器用c++" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="当然可以！以下是一个简单的C++计算器的示例代码：&#10;&#10;```cpp&#10;#include &lt;iostream&gt;&#10;&#10;double add(double num1, double num2) {&#10;    return num1 + num2;&#10;}&#10;&#10;double subtract(double num1, double num2) {&#10;    return num1 - num2;&#10;}&#10;&#10;double multiply(double num1, double num2) {&#10;    return num1 * num2;&#10;}&#10;&#10;double divide(double num1, double num2) {&#10;    if (num2 != 0) {&#10;        return num1 / num2;&#10;    } else {&#10;        std::cout &lt;&lt; &quot;错误：除数不能为零！&quot; &lt;&lt; std::endl;&#10;        return 0;&#10;    }&#10;}&#10;&#10;int main() {&#10;    double num1, num2;&#10;    char op;&#10;&#10;    std::cout &lt;&lt; &quot;请输入第一个数：&quot;;&#10;    std::cin &gt;&gt; num1;&#10;&#10;    std::cout &lt;&lt; &quot;请输入运算符：&quot;;&#10;    std::cin &gt;&gt; op;&#10;&#10;    std::cout &lt;&lt; &quot;请输入第二个数：&quot;;&#10;    std::cin &gt;&gt; num2;&#10;&#10;    double result;&#10;    switch(op) {&#10;        case '+':&#10;            result = add(num1, num2);&#10;            break;&#10;        case '-':&#10;            result = subtract(num1, num2);&#10;            break;&#10;        case '*':&#10;            result = multiply(num1, num2);&#10;            break;&#10;        case '/':&#10;            result = divide(num1, num2);&#10;            break;&#10;        default:&#10;            std::cout &lt;&lt; &quot;无效的运算符！&quot; &lt;&lt; std::endl;&#10;            return 0;&#10;    }&#10;&#10;    std::cout &lt;&lt; &quot;计算结果：&quot; &lt;&lt; result &lt;&lt; std::endl;&#10;&#10;    return 0;&#10;}&#10;```&#10;&#10;这个计算器程序会要求用户输入两个数字和一个运算符，然后根据运算符执行相应的计算操作，并输出结果。它包含了四个基本的计算函数：add、subtract、multiply和divide，分别用于执行加法、减法、乘法和除法运算。在除法运算中，还添加了对除数为零的错误处理。&#10;&#10;请注意，这只是一个简单的示例，你可以根据自己的需求进行扩展和改进。" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1696413899818" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/test.cpp" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="21b994">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="21b994" />
+              <option name="initiateTms" value="1696414457542" />
+              <option name="request" value="帮我设计一个端口监听上传文件服务" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="当然可以帮你设计一个端口监听上传文件的服务。首先，你需要选择一个合适的编程语言来实现这个服务。我将使用C++来编写一个简单的示例。&#10;&#10;首先，你需要包含一些必要的头文件，如下所示：&#10;&#10;```cpp&#10;#include &lt;iostream&gt;&#10;#include &lt;fstream&gt;&#10;#include &lt;string&gt;&#10;#include &lt;sys/socket.h&gt;&#10;#include &lt;netinet/in.h&gt;&#10;#include &lt;unistd.h&gt;&#10;```&#10;&#10;接下来，你可以创建一个函数来处理文件上传的逻辑。这个函数将监听指定的端口，并接收上传的文件。以下是一个示例函数：&#10;&#10;```cpp&#10;void handleFileUpload(int port) {&#10;    int serverSocket, clientSocket;&#10;    struct sockaddr_in serverAddress, clientAddress;&#10;    socklen_t clientAddressLength;&#10;&#10;    // 创建服务器套接字&#10;    serverSocket = socket(AF_INET, SOCK_STREAM, 0);&#10;    if (serverSocket &lt; 0) {&#10;        std::cerr &lt;&lt; &quot;Error creating socket&quot; &lt;&lt; std::endl;&#10;        return;&#10;    }&#10;&#10;    // 设置服务器地址和端口&#10;    serverAddress.sin_family = AF_INET;&#10;    serverAddress.sin_addr.s_addr = INADDR_ANY;&#10;    serverAddress.sin_port = htons(port);&#10;&#10;    // 绑定服务器套接字到指定的地址和端口&#10;    if (bind(serverSocket, (struct sockaddr *)&amp;serverAddress, sizeof(serverAddress)) &lt; 0) {&#10;        std::cerr &lt;&lt; &quot;Error binding socket&quot; &lt;&lt; std::endl;&#10;        return;&#10;    }&#10;&#10;    // 监听指定的端口&#10;    if (listen(serverSocket, 5) &lt; 0) {&#10;        std::cerr &lt;&lt; &quot;Error listening on port&quot; &lt;&lt; std::endl;&#10;        return;&#10;    }&#10;&#10;    std::cout &lt;&lt; &quot;Server listening on port &quot; &lt;&lt; port &lt;&lt; std::endl;&#10;&#10;    while (true) {&#10;        // 接受客户端连接&#10;        clientAddressLength = sizeof(clientAddress);&#10;        clientSocket = accept(serverSocket, (struct sockaddr *)&amp;clientAddress, &amp;clientAddressLength);&#10;        if (clientSocket &lt; 0) {&#10;            std::cerr &lt;&lt; &quot;Error accepting client connection&quot; &lt;&lt; std::endl;&#10;            continue;&#10;        }&#10;&#10;        std::cout &lt;&lt; &quot;Client connected&quot; &lt;&lt; std::endl;&#10;&#10;        // 接收文件名&#10;        char fileName[256];&#10;        memset(fileName, 0, sizeof(fileName));&#10;        if (recv(clientSocket, fileName, sizeof(fileName), 0) &lt; 0) {&#10;            std::cerr &lt;&lt; &quot;Error receiving file name&quot; &lt;&lt; std::endl;&#10;            close(clientSocket);&#10;            continue;&#10;        }&#10;&#10;        std::cout &lt;&lt; &quot;Receiving file: &quot; &lt;&lt; fileName &lt;&lt; std::endl;&#10;&#10;        // 创建文件并接收文件内容&#10;        std::ofstream outputFile(fileName, std::ios::binary);&#10;        if (!outputFile) {&#10;            std::cerr &lt;&lt; &quot;Error creating file&quot; &lt;&lt; std::endl;&#10;            close(clientSocket);&#10;            continue;&#10;        }&#10;&#10;        char buffer[1024];&#10;        int bytesRead;&#10;        while ((bytesRead = recv(clientSocket, buffer, sizeof(buffer), 0)) &gt; 0) {&#10;            outputFile.write(buffer, bytesRead);&#10;        }&#10;&#10;        if (bytesRead &lt; 0) {&#10;            std::cerr &lt;&lt; &quot;Error receiving file&quot; &lt;&lt; std::endl;&#10;        } else {&#10;            std::cout &lt;&lt; &quot;File received successfully&quot; &lt;&lt; std::endl;&#10;        }&#10;&#10;        outputFile.close();&#10;        close(clientSocket);&#10;    }&#10;&#10;    close(serverSocket);&#10;}&#10;```&#10;&#10;现在，你可以在主函数中调用`handleFileUpload`函数来启动文件上传服务。以下是一个示例：&#10;&#10;```cpp&#10;int main() {&#10;    int port = 8080; // 选择一个合适的端口号&#10;&#10;    handleFileUpload(port);&#10;&#10;    return 0;&#10;}&#10;```&#10;&#10;请注意，这只是一个简单的示例，你可能需要根据你的需求进行修改和扩展。例如，你可以添加身份验证、错误处理和并发处理等功能。&#10;&#10;希望这可以帮助到你！如果你有任何其他问题，请随时提问。" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1696414470496" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/test.cpp" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="d4b7c0">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="d4b7c0" />
+              <option name="initiateTms" value="1696414497703" />
+              <option name="request" value="帮我设计一个扫雷游戏" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="当然可以帮你设计一个扫雷游戏！下面是一个简单的C++代码示例，可以作为你的起点：&#10;&#10;```cpp&#10;#include &lt;iostream&gt;&#10;#include &lt;vector&gt;&#10;#include &lt;random&gt;&#10;&#10;// 游戏板的大小&#10;const int BOARD_SIZE = 10;&#10;&#10;// 表示每个方块的状态&#10;enum class SquareState {&#10;    Hidden,&#10;    Revealed,&#10;    Flagged&#10;};&#10;&#10;// 表示每个方块的内容&#10;enum class SquareContent {&#10;    Empty,&#10;    Mine&#10;};&#10;&#10;// 游戏板&#10;std::vector&lt;std::vector&lt;SquareState&gt;&gt; boardState(BOARD_SIZE, std::vector&lt;SquareState&gt;(BOARD_SIZE, SquareState::Hidden));&#10;std::vector&lt;std::vector&lt;SquareContent&gt;&gt; boardContent(BOARD_SIZE, std::vector&lt;SquareContent&gt;(BOARD_SIZE, SquareContent::Empty));&#10;&#10;// 随机数生成器&#10;std::random_device rd;&#10;std::mt19937 gen(rd());&#10;std::uniform_int_distribution&lt;&gt; dis(0, BOARD_SIZE - 1);&#10;&#10;// 放置地雷&#10;void placeMines(int numMines) {&#10;    int count = 0;&#10;    while (count &lt; numMines) {&#10;        int x = dis(gen);&#10;        int y = dis(gen);&#10;        if (boardContent[x][y] != SquareContent::Mine) {&#10;            boardContent[x][y] = SquareContent::Mine;&#10;            count++;&#10;        }&#10;    }&#10;}&#10;&#10;// 统计周围地雷数量&#10;int countAdjacentMines(int x, int y) {&#10;    int count = 0;&#10;    for (int i = -1; i &lt;= 1; i++) {&#10;        for (int j = -1; j &lt;= 1; j++) {&#10;            int newX = x + i;&#10;            int newY = y + j;&#10;            if (newX &gt;= 0 &amp;&amp; newX &lt; BOARD_SIZE &amp;&amp; newY &gt;= 0 &amp;&amp; newY &lt; BOARD_SIZE) {&#10;                if (boardContent[newX][newY] == SquareContent::Mine) {&#10;                    count++;&#10;                }&#10;            }&#10;        }&#10;    }&#10;    return count;&#10;}&#10;&#10;// 揭示方块&#10;void revealSquare(int x, int y) {&#10;    if (boardState[x][y] == SquareState::Hidden) {&#10;        boardState[x][y] = SquareState::Revealed;&#10;        if (boardContent[x][y] == SquareContent::Empty) {&#10;            // 如果方块为空，则递归揭示周围的方块&#10;            for (int i = -1; i &lt;= 1; i++) {&#10;                for (int j = -1; j &lt;= 1; j++) {&#10;                    int newX = x + i;&#10;                    int newY = y + j;&#10;                    if (newX &gt;= 0 &amp;&amp; newX &lt; BOARD_SIZE &amp;&amp; newY &gt;= 0 &amp;&amp; newY &lt; BOARD_SIZE) {&#10;                        revealSquare(newX, newY);&#10;                    }&#10;                }&#10;            }&#10;        }&#10;    }&#10;}&#10;&#10;// 标记方块&#10;void flagSquare(int x, int y) {&#10;    if (boardState[x][y] == SquareState::Hidden) {&#10;        boardState[x][y] = SquareState::Flagged;&#10;    } else if (boardState[x][y] == SquareState::Flagged) {&#10;        boardState[x][y] = SquareState::Hidden;&#10;    }&#10;}&#10;&#10;// 打印游戏板" />
+              <option name="responseTms" value="1696414522335" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/test.cpp" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="d802dc">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="d802dc" />
+              <option name="initiateTms" value="1696414679965" />
+              <option name="request" value="现在呢？" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="非常抱歉，我之前的回答可能让您感到困惑。由于当前文件`test.cpp`是空的，我无法提供具体的代码更改建议。但是，如果您有任何特定的功能或问题需要解决，请告诉我，我将尽力帮助您编写相应的代码。" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1696414683135" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/test.cpp" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="d9d23a">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/test.cpp" />
+                </list>
+              </option>
+              <option name="id" value="d9d23a" />
+              <option name="initiateTms" value="1696414636500" />
+              <option name="request" value="继续" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="I apologize, but it seems that the current file `test.cpp` is empty. Could you please provide the code that you would like me to work with?" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1696414639568" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/test.cpp" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="e25629">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="e25629" />
+              <option name="initiateTms" value="1696414659235" />
+              <option name="request" value="继续" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="I apologize for the confusion. Since the current file `test.cpp` is empty, I will assume that you want me to provide some code for you. Could you please let me know what specific functionality or problem you would like me to address in the code?" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1696414662002" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/test.cpp" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="greeting">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="greeting" />
+              <option name="initiateTms" value="1696412298337" />
+              <option name="request" value="" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="&#10;Hello, I am Machinet AI - context aware chat, which can help you with your daily programming routine. How can I help?" />
+              <option name="responseTms" value="1696412300082" />
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
