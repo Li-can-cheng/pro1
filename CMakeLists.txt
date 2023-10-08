@@ -3,14 +3,14 @@ project(pro1)
 
 set(CMAKE_CXX_STANDARD 17)
 
-#add_executable(pro1 src/main.cpp
-#        src/server.cpp
-#        src/server.h
-#        src/main.cpp
-#        src/file_manager.cpp
-#        src/file_manager.h
-#        src/thread_pool.h
-#        src/thread_pool.cpp)
+#add_executable(pro1 src(invalid)/main.cpp
+#        src(invalid)/server.cpp
+#        src(invalid)/server.h
+#        src(invalid)/main.cpp
+#        src(invalid)/file_manager.cpp
+#        src(invalid)/file_manager.h
+#        src(invalid)/thread_pool.h
+#        src(invalid)/thread_pool.cpp)
 
 
 add_executable(pro1 test.cpp
