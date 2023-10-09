@@ -22,15 +22,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6c8c6e31-f99d-4ab8-8957-ba09c1016dff" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file_manager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src(invalid)/file_manager.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file_manager.h" beforeDir="false" afterPath="$PROJECT_DIR$/src(invalid)/file_manager.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src(invalid)/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src(invalid)/server.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server.h" beforeDir="false" afterPath="$PROJECT_DIR$/src(invalid)/server.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread_pool.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src(invalid)/thread_pool.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread_pool.h" beforeDir="false" afterPath="$PROJECT_DIR$/src(invalid)/thread_pool.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/file_handler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src1/file_handler.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/folder_handler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src1/folder_handler.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,11 +120,6 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake 应用程序.pro1">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="pro1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pro1" TARGET_NAME="pro1" CONFIG_NAME="Debug-远程主机" RUN_TARGET_PROJECT_NAME="pro1" RUN_TARGET_NAME="pro1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -198,7 +186,12 @@
       <workItem from="1696694421051" duration="18000" />
       <workItem from="1696772172758" duration="588000" />
       <workItem from="1696778194054" duration="63000" />
-      <workItem from="1696778259845" duration="4302000" />
+      <workItem from="1696778259845" duration="4356000" />
+      <workItem from="1696785774773" duration="271000" />
+      <workItem from="1696810448456" duration="1388000" />
+      <workItem from="1696822958609" duration="2023000" />
+      <workItem from="1696835545512" duration="1571000" />
+      <workItem from="1696849562051" duration="4671000" />
     </task>
     <task id="LOCAL-00001" summary="完善">
       <option name="closed" value="true" />
@@ -208,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696661413754</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="更新了test.cpp一些注释，给src添加了invalid表示">
+      <option name="closed" value="true" />
+      <created>1696785757452</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696785757452</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,11 +245,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/cpp-httplib" />
     </ignored-roots>
     <MESSAGE value="完善" />
-    <option name="LAST_COMMIT_MESSAGE" value="完善" />
+    <MESSAGE value="更新了test.cpp一些注释，给src添加了invalid表示" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新了test.cpp一些注释，给src添加了invalid表示" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
